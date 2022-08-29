@@ -1,0 +1,12 @@
+nama = input("nama kamu siapa?")
+kelas = input("kamu kelas berapa?")
+umur = input("berapa umur kamu?")
+sekolah = input("kamu sekolah dimana?")
+jurusan = input("kamu jurusan apa?")
+lahir = input("kapan kamu lahir?")
+makanan = input("apa makanan kesukaan kamu?")
+hobi = input("apa hobi kamu?")
+game = input("apa game favorit kamu?")
+tujuanhidup= input ("apa tujuan hidupmu?")
+
+print("nama saya",nama,"saya kelas",kelas,"umur saya",umur,"saya sekolah di",sekolah,"saya jurusan",jurusan,"saya lahir",lahir,"makanan kesukaan saya",makanan,"hobi saya",hobi,"game favorit saya",game,"tujuan hidup saya",tujuanhidup)
